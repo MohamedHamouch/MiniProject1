@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1725560426 source:c:\users\youco\desktop\prog c\miniprjt s_g_contacts\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1725613595 source:c:\users\youco\desktop\prog c\projects\miniprjt s_g_contacts\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
